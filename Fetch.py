@@ -55,5 +55,5 @@ def main():
     inputarg = sys.argv[1]
     run(inputarg)    
 
-if __name__==main():
+if __name__ == main():
     main()     
