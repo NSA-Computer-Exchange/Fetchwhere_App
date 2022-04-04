@@ -1,3 +1,13 @@
+##################################### Read IONAPI file, get access token ##############################
+#
+#  Author: Rob Thayer
+#  Date: March 31 2022
+#  Updated: 
+#  Description: This class file reads the IONAPI file defined in the config.ini 
+#  file to request a bearer tokem from the auth url.
+#
+#######################################################################################################
+
 import configparser
 import json
 import requests
