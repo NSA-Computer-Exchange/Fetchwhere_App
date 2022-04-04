@@ -1,0 +1,8 @@
+{  
+    "CompanyNumber": 1000,
+    "Operator": "sys",
+    "TableName": "vaeh",
+    "WhereClause": "",
+    "BatchSize": 0,
+    "RestartRowID": "" 
+}

@@ -1,0 +1,8 @@
+{  
+    "CompanyNumber": 1000,
+    "Operator": "sys",
+    "TableName": "sasoo",
+    "WhereClause": "cono = 1000 and oper2 = 'RT01'",
+    "BatchSize": 0,
+    "RestartRowID": "" 
+}
