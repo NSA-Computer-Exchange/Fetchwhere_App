@@ -1,3 +1,13 @@
+##################################### Fetchwhere call function ########################################
+#
+#  Author: Rob Thayer
+#  Date: March 31 2022
+#  Updated: 
+#  Description: This script prompts a user for a folder and path to save a fetchwhere request 
+#  defined in the payloads folder.
+#
+#######################################################################################################
+
 import requests
 from lib.GetTokenClass import ParseConfig,GetAuthToken
 import json
