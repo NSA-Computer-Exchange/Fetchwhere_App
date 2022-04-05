@@ -13,5 +13,5 @@ If you'd like to compile your own updates or changes to the program you can inst
     pip install pyinstaller
 
 
-As always for any questions or comments, you can reach out to [rob.thayer@nsacom.com](mailto:rob.thayer@nsacom.com)
+As always for any questions or comments, you can reach out to us at: [support@nsacom.com](mailto:support@nsacom.com)
 
