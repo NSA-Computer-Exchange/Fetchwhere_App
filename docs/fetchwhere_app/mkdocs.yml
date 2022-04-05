@@ -1,0 +1,11 @@
+site_name: Fetchwhere App Documentation
+site_url: https://github.com/NSA-Computer-Exchange/Fetchwhere_App
+
+nav: 
+  - Main: index.md
+  - Setup: setup.md
+  - Running the code: running.md
+  - What's next: whatsnext.md
+
+theme: material
+
