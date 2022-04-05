@@ -1,16 +1,1 @@
-{
-	"ti": "NSACOM_DEM",
-	"cn": "PY_API",
-	"dt": "12",
-	"ci": "NSACOM_DEM~_Yi5u80yocy50RxOcGT0_w4rnP13RTHcTmN9lrY9bQg",
-	"cs": "gqLr33vQK1BmKUKFtZlKmvpBlvF7elr9y56MG53dpxtmnqNlSeSi6XOkHmaiwJXp5FnVP0MVnSu5NjRPySvCcg",
-	"iu": "https://mingle-ionapi.inforcloudsuite.com",
-	"pu": "https://mingle-sso.inforcloudsuite.com:443/NSACOM_DEM/as/",
-	"oa": "authorization.oauth2",
-	"ot": "token.oauth2",
-	"or": "revoke_token.oauth2",
-	"ev": "U1478358101",
-	"v": "1.0",
-	"saak": "NSACOM_DEM#VyxXye9QAItoFZtab-0lfndJbtiETMigt_bb5EgVntRmhLgcwlfvWiANrQPqtwnHPGb2zGpyW8sGIVPsIStKrg",
-	"sask": "978n0tpc76oIsnucX9kdq0-RqSvk_jp7egQviQKbmQK_7_pKS309ceFrFroS4Xx7Cl9h7CM8yjgSNImKNmEi_w"
-}
+Your IONAPI file goes here
