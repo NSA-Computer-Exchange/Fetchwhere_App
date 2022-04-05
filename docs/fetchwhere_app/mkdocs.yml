@@ -7,6 +7,8 @@ nav:
   - Running the code: running.md
   - What's next: whatsnext.md
 
-theme: material
+theme:
+  name: material
+  logo: 'img/nsalogo.jpg'
 
 repo_url: https://github.com/NSA-Computer-Exchange/Fetchwhere_App/tree/main
